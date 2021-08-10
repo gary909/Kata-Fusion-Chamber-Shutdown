@@ -5,4 +5,6 @@ function burner(c, h, o) {
     return [water, co2, methane];
   }
 
+  //Not finished!!!!
+
  console.log(burner(45, 11, 100)); // returns [5, 45, 0] carbon/hydrogen/oxygen
